@@ -1,4 +1,4 @@
-libplayback (0.5-24+0m6) unstable; urgency=low
+libplayback (0.5-25+0m5) unstable; urgency=low
 
   * Make the -dbg package actually contain debug symbols
   * Fix a crash preventing things from working
